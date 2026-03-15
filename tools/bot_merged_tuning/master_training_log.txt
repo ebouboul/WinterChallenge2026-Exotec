@@ -1,0 +1,91 @@
+[2026-03-15 05:31:22] ============================================================
+[2026-03-15 05:31:22] MASTER TRAINER START
+[2026-03-15 05:31:22] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:31:22] ============================================================
+[2026-03-15 05:31:22] --- CYCLE 1/10 ---
+[2026-03-15 05:31:22] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:31:22] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:31:22] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:31:22] ============================================================
+[2026-03-15 05:31:22] MASTER TRAINER DONE
+[2026-03-15 05:31:22] No winner found across any cycle.
+[2026-03-15 05:31:22] ============================================================
+[2026-03-15 05:34:55] ============================================================
+[2026-03-15 05:34:55] MASTER TRAINER START
+[2026-03-15 05:34:55] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:34:55] ============================================================
+[2026-03-15 05:34:55] --- CYCLE 1/10 ---
+[2026-03-15 05:34:55] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:34:55] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:34:55] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:34:55] ============================================================
+[2026-03-15 05:34:55] MASTER TRAINER DONE
+[2026-03-15 05:34:55] No winner found across any cycle.
+[2026-03-15 05:34:55] ============================================================
+[2026-03-15 05:36:41] ============================================================
+[2026-03-15 05:36:41] MASTER TRAINER START
+[2026-03-15 05:36:41] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:36:41] ============================================================
+[2026-03-15 05:36:41] --- CYCLE 1/10 ---
+[2026-03-15 05:36:41] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:36:41] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:36:41] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:36:41] ============================================================
+[2026-03-15 05:36:41] MASTER TRAINER DONE
+[2026-03-15 05:36:41] No winner found across any cycle.
+[2026-03-15 05:36:41] ============================================================
+[2026-03-15 05:38:30] ============================================================
+[2026-03-15 05:38:30] MASTER TRAINER START
+[2026-03-15 05:38:30] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:38:30] ============================================================
+[2026-03-15 05:38:30] --- CYCLE 1/10 ---
+[2026-03-15 05:38:30] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:38:30] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:38:30] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:38:30] ============================================================
+[2026-03-15 05:38:30] MASTER TRAINER DONE
+[2026-03-15 05:38:30] No winner found across any cycle.
+[2026-03-15 05:38:30] ============================================================
+[2026-03-15 05:43:33] ============================================================
+[2026-03-15 05:43:33] MASTER TRAINER START
+[2026-03-15 05:43:33] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:43:33] ============================================================
+[2026-03-15 05:43:33] --- CYCLE 1/10 ---
+[2026-03-15 05:43:33] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:43:33] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:43:35] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:43:35] ============================================================
+[2026-03-15 05:43:35] MASTER TRAINER DONE
+[2026-03-15 05:43:35] No winner found across any cycle.
+[2026-03-15 05:43:35] ============================================================
+[2026-03-15 05:44:58] ============================================================
+[2026-03-15 05:44:58] MASTER TRAINER START
+[2026-03-15 05:44:58] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:44:58] ============================================================
+[2026-03-15 05:44:58] --- CYCLE 1/10 ---
+[2026-03-15 05:44:58] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:44:58] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:45:03] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:45:03] ============================================================
+[2026-03-15 05:45:03] MASTER TRAINER DONE
+[2026-03-15 05:45:03] No winner found across any cycle.
+[2026-03-15 05:45:03] ============================================================
+[2026-03-15 05:46:27] ============================================================
+[2026-03-15 05:46:27] MASTER TRAINER START
+[2026-03-15 05:46:27] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:46:27] ============================================================
+[2026-03-15 05:46:27] --- CYCLE 1/10 ---
+[2026-03-15 05:46:27] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:46:27] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315
+[2026-03-15 05:46:31] CYCLE 1: Tuner exited with unexpected code 1. Stopping.
+[2026-03-15 05:46:31] ============================================================
+[2026-03-15 05:46:31] MASTER TRAINER DONE
+[2026-03-15 05:46:31] No winner found across any cycle.
+[2026-03-15 05:46:31] ============================================================
+[2026-03-15 05:48:06] ============================================================
+[2026-03-15 05:48:06] MASTER TRAINER START
+[2026-03-15 05:48:06] Target cycles=10  max-gen/cycle=20  workers=10
+[2026-03-15 05:48:06] ============================================================
+[2026-03-15 05:48:06] --- CYCLE 1/10 ---
+[2026-03-15 05:48:06] Baseline: hardcoded defaults (first cycle)
+[2026-03-15 05:48:06] Launching: /home/tufat/.nnvenv/bin/python3 /home/tufat/Desktop/WinterChallenge2026-Exotec/tune_bot_merged_ga.py --workspace /home/tufat/Desktop/WinterChallenge2026-Exotec --population 12 --elite 3 --seeds-per-eval 30 --verify-seeds 40 --verify-rounds 2 --target-winrate 0.75 --workers 10 --max-generations 20 --artifacts-dir tools/bot_merged_tuning --seed 20260315

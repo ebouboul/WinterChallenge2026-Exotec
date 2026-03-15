@@ -1,0 +1,152 @@
+{
+  "updated_at": 1773560819.92943,
+  "target_winrate": 0.75,
+  "best_eval": {
+    "ts": 1773557350.549859,
+    "generation": 2,
+    "index": 7,
+    "params": {
+      "MAX_SEARCH_DEPTH": 10,
+      "W_SCORE": 0.311366,
+      "W_BOT": 0.22244,
+      "W_DIST_MY": 0.015847,
+      "W_DIST_OPP": 0.029634,
+      "W_SAFETY": 0.018534,
+      "W_GROUND": 0.147188,
+      "W_MOB": 0.0,
+      "W_TERR": 0.104256,
+      "UCB_EXPLORATION": 0.5
+    },
+    "metrics": {
+      "games": 60,
+      "wins": 13,
+      "ties": 43,
+      "losses": 4,
+      "win_rate": 0.575,
+      "avg_turns": 3.5,
+      "avg_score_diff": 1.7166666666666666,
+      "avg_losses_diff": -0.08333333333333333,
+      "fitness": 332339.6666666667,
+      "per_opponent": [
+        {
+          "name": "baseline",
+          "games": 60,
+          "wins": 13,
+          "ties": 43,
+          "losses": 4,
+          "win_rate": 0.575,
+          "avg_turns": 3.5,
+          "avg_score_diff": 1.7166666666666666,
+          "avg_losses_diff": -0.08333333333333333,
+          "fitness": 332339.6666666667
+        }
+      ]
+    },
+    "bin": "/home/tufat/Desktop/WinterChallenge2026-Exotec/tools/bot_merged_tuning/bins/bot_merged_91218cb338fd3f7b",
+    "seeds": 30,
+    "games": 60,
+    "elapsed_sec": 179.214
+  },
+  "latest_generation": 3,
+  "latest_gen_best": {
+    "ts": 1773559264.616073,
+    "generation": 3,
+    "index": 4,
+    "params": {
+      "MAX_SEARCH_DEPTH": 6,
+      "W_SCORE": 0.680672,
+      "W_BOT": 0.741669,
+      "W_DIST_MY": 0.195122,
+      "W_DIST_OPP": 0.082211,
+      "W_SAFETY": 0.321971,
+      "W_GROUND": 0.397795,
+      "W_MOB": 0.105069,
+      "W_TERR": 0.358986,
+      "UCB_EXPLORATION": 1.210074
+    },
+    "metrics": {
+      "games": 60,
+      "wins": 13,
+      "ties": 40,
+      "losses": 7,
+      "win_rate": 0.55,
+      "avg_turns": 10.066666666666666,
+      "avg_score_diff": 1.1166666666666667,
+      "avg_losses_diff": 0.31666666666666665,
+      "fitness": 276574.0,
+      "per_opponent": [
+        {
+          "name": "baseline",
+          "games": 60,
+          "wins": 13,
+          "ties": 40,
+          "losses": 7,
+          "win_rate": 0.55,
+          "avg_turns": 10.066666666666666,
+          "avg_score_diff": 1.1166666666666667,
+          "avg_losses_diff": 0.31666666666666665,
+          "fitness": 276574.0
+        }
+      ]
+    },
+    "bin": "/home/tufat/Desktop/WinterChallenge2026-Exotec/tools/bot_merged_tuning/bins/bot_merged_81d688b8f656315b",
+    "seeds": 30,
+    "games": 60,
+    "elapsed_sec": 163.068
+  },
+  "latest_verify": [
+    {
+      "games": 80,
+      "wins": 21,
+      "ties": 51,
+      "losses": 8,
+      "win_rate": 0.58125,
+      "avg_turns": 5.1625,
+      "avg_score_diff": 2.0875,
+      "avg_losses_diff": 0.175,
+      "fitness": 384637.5,
+      "per_opponent": [
+        {
+          "name": "baseline",
+          "games": 80,
+          "wins": 21,
+          "ties": 51,
+          "losses": 8,
+          "win_rate": 0.58125,
+          "avg_turns": 5.1625,
+          "avg_score_diff": 2.0875,
+          "avg_losses_diff": 0.175,
+          "fitness": 384637.5
+        }
+      ]
+    },
+    {
+      "games": 80,
+      "wins": 12,
+      "ties": 63,
+      "losses": 5,
+      "win_rate": 0.54375,
+      "avg_turns": 9.5375,
+      "avg_score_diff": 1.0125,
+      "avg_losses_diff": 0.2625,
+      "fitness": 237564.0,
+      "per_opponent": [
+        {
+          "name": "baseline",
+          "games": 80,
+          "wins": 12,
+          "ties": 63,
+          "losses": 5,
+          "win_rate": 0.54375,
+          "avg_turns": 9.5375,
+          "avg_score_diff": 1.0125,
+          "avg_losses_diff": 0.2625,
+          "fitness": 237564.0
+        }
+      ]
+    }
+  ],
+  "baseline_bin": "/home/tufat/Desktop/WinterChallenge2026-Exotec/tools/bot_merged_tuning/bins/bot_merged_baseline_b11b638208a8aaea",
+  "ref_bin": "/home/tufat/Desktop/WinterChallenge2026-Exotec/tools/bot_merged_tuning/bins/referee_cpp",
+  "compile_command": "g++ -std=c++17 -O3 -pipe -DMAX_SEARCH_DEPTH=10 -DW_SCORE=0.311366 -DW_BOT=0.222440 -DW_DIST_MY=0.015847 -DW_DIST_OPP=0.029634 -DW_SAFETY=0.018534 -DW_GROUND=0.147188 -DW_MOB=0.000000 -DW_TERR=0.104256 -DUCB_EXPLORATION=0.500000 /home/tufat/Desktop/WinterChallenge2026-Exotec/src/bot_merged.cpp -o /home/tufat/Desktop/WinterChallenge2026-Exotec/tools/bot_merged_tuning/bins/bot_merged_production"
+}
